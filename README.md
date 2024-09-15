@@ -8,8 +8,8 @@
 </div>
 </div>
  <ul align="left" >
-         <li>😃 I’m currently becoming Fullstack Developer Step by Step</li>
-         <li>🌱 I’m currently learning at <a href="https://hutech.edu.vn/" target="_blank" rel="noopener">HUTECH University</a> and <a href="https://cybersoft.edu.vn/" target="_blank"                       rel="noopener">Cybersoft Academy</a>
+         <li>🥰 Hiện tại, tôi đang dần trở thành một kỹ sư phần mềm tài năng.</li>
+         <li>🌱 Hiện tại tôi đang học tại <a href="https://hutech.edu.vn/" target="_blank" rel="noopener">Trường Đại học Công Nghệ TP. Hồ Chí Minh - HUTECH</a> and <a href="https://howkteam.vn/" target="_blank"                       rel="noopener">HOWKTEAM</a>
          </li>
          <li>💬 Ask me about SOME stack and related technologies</li>
          <li> 📫 How to reach me: phamphat2003vn@gmail.com</li>
