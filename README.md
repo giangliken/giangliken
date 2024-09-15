@@ -17,7 +17,7 @@
   </ul>
   <h3>📌 Bạn có thể kết nối với tôi thông qua:</h3>
   <a href="http://zaloapp.com/qr/p/1cqxptd6ssuw2"><img src="https://github.com/giangliken/giangliken/blob/b18033622b78ae8f2e258b9ae9a9137297fe0a0e/svg/zalo%20icon.svg" width="50" height="50"></a>
-   <a href="#!"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" width="40" height="30"></a>
+   <a href="https://www.facebook.com/giangliken"><img src="https://github.com/giangliken/giangliken/blob/61083c46aff594c055bb40a7466dc019b7d9e119/img/facebook%20icon.svg" width="50" height="50"></a>
     <a href="#!"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40" height="30"></a>
      <a href="#!"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="30"></a>
   <br>
