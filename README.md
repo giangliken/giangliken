@@ -9,13 +9,13 @@
 </div>
  <ul align="left" >
          <li>🥰 Hiện tại, tôi đang dần trở thành một kỹ sư phần mềm tài năng.</li>
-         <li>🌱 Hiện tại tôi đang học tại <a href="https://hutech.edu.vn/" target="_blank" rel="noopener">Trường Đại học Công Nghệ TP. Hồ Chí Minh - HUTECH</a> and <a href="https://howkteam.vn/" target="_blank"                       rel="noopener">HOWKTEAM</a>
+         <li>🌱 Hiện tại tôi đang học tại <a href="https://hutech.edu.vn/" target="_blank" rel="noopener">Trường Đại học Công Nghệ TP. Hồ Chí Minh - HUTECH</a> and <a href="https://howkteam.vn/" target="_blank"                       rel="noopener">Free Education At HOWKTEAM</a>
          </li>
-         <li>💬 Ask me about SOME stack and related technologies</li>
-         <li> 📫 How to reach me: phamphat2003vn@gmail.com</li>
-         <li>⚡ Fun fact: Guitar, Football..</li>
+         <li>💬 Hãy hỏi tôi những kiến thức về công nghệ và đặc biệt hỏi tôi về thuật toán</li>
+         <li> 📫 Bạn có thể liên lạc với tôi thông qua Email: giangliken@gmail.com</li>
+         <li>⚡ Sở thích của tôi: Khám phá, khai sáng, xem phim, nghe nhạc, ... và đặc biệt là thích tìm lỗi trong một hệ thống</li>
   </ul>
-  <h3>📌 Connect with me</h3>
+  <h3>📌 Bạn có thể kết nối với tôi thông qua:</h3>
   <a href="#!"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="30"></a>
    <a href="#!"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" width="40" height="30"></a>
     <a href="#!"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40" height="30"></a>
