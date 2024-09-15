@@ -18,56 +18,19 @@
   <h3>📌 Bạn có thể kết nối với tôi thông qua:</h3>
   <a href="http://zaloapp.com/qr/p/1cqxptd6ssuw2"><img src="https://github.com/giangliken/giangliken/blob/b18033622b78ae8f2e258b9ae9a9137297fe0a0e/svg/zalo%20icon.svg" width="50" height="50"></a>
    <a href="https://www.facebook.com/giangliken"><img src="https://github.com/giangliken/giangliken/blob/61083c46aff594c055bb40a7466dc019b7d9e119/img/facebook%20icon.svg" width="50" height="50"></a>
-    <a href="#!"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40" height="30"></a>
-     <a href="#!"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="30"></a>
+    <a href="https://discord.com/channels/@giangliken"><img src="https://github.com/giangliken/giangliken/blob/42d9c166421ef2c11fcc696c9cb83fcfc684c8b2/img/discord%20icon.svg" width="50" height="50"></a>
+     <a href="https://www.instagram.com/truonggiang0146/"><img src="https://github.com/giangliken/giangliken/blob/42d9c166421ef2c11fcc696c9cb83fcfc684c8b2/img/instagram%20icon.svg" width="50" height="50"></a>
   <br>
-  <h2>⚙ Languages & Tools</h2>
-  
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,sass,react,nextjs,figma,github,postman,jquery)](#)
-[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,java,spring,nodejs,nestjs,mysql,docker,graphql,idea,vscode	)](#)
-<br>
-<br>
-
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/delee03/delee03/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/delee03/delee03/output/github-contribution-grid-snake.svg">
     <img alt="Snake animation" src="https://raw.githubusercontent.com/delee03/delee03/output/github-contribution-grid-snake.svg" width="100%" height="auto">
 </picture>
+<br>
+<br>
 
-<br>
- <h2>🔭 Github Stats </h2>
-<!--Ảnh streak -->
-<p align="center">
-  <a href="#">
-    <img src="https://streak-stats.demolab.com?user=delee03&theme=radical&border_radius=4.8&exclude_days=Sun&card_width=530&card_height=200" alt="GitHub Streak" />
-  </a>
-</p>
-<br>
-<!--Thống kê và most used languages-->
-<div>
- <img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=delee03&layout=compact&theme=radical&height=250" alt="Top Langs" />
-</div>
-
-<div>
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=delee03&show_icons=true&theme=radical" alt="Anurag's GitHub stats" /> 
-</div>   
-<br>
-<br>
-  
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<h2>⚡Github Trophy</h2>
-<p align="left">
-  <a href="#">
-    <img src="https://github-trophies.vercel.app/?username=lucthienphong1120&theme=onedark&row=1" />
-  </a>
-</p>
 <br>
 
 
 
-![Delee03's GitHub Banner](https://images.unsplash.com/photo-1614624532983-4ce03382d63d?q=80&w=1931&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+![giangliken's GitHub Banner](https://github.com/giangliken/giangliken/blob/fcf7b5971f0d71546a32f085d2bbb2cbb676038f/img/4.jpg)
