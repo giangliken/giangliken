@@ -6,8 +6,8 @@
 
 </div>
  <ul align="left" >
-         <li>🥰 Hiện tại, tôi đang là thực tập sinh ở Công ty TNHH Thái Hưng Infotech</li>
-         <li>🌱 Tôi đang học tại <a href="https://hutech.edu.vn/" target="_blank" rel="noopener">Trường Đại học Công Nghệ TP. Hồ Chí Minh - HUTECH</a> 
+         <li>🥰 Hiện tại, tôi đang làm tại công ty TNHH YAZAKI EDS VIETNAM </li>
+         <li>🌱 Tôi đã tốt nghiệp tại <a href="https://hutech.edu.vn/" target="_blank" rel="noopener">Trường Đại học Công Nghệ TP. Hồ Chí Minh - HUTECH</a> 
          </li>
          <li>💬 Hãy hỏi tôi những kiến thức về công nghệ và đặc biệt hỏi tôi về thuật toán</li>
          <li> 📫 Bạn có thể liên lạc với tôi thông qua Email: giangliken@gmail.com</li>
